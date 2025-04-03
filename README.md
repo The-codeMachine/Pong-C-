@@ -4,12 +4,10 @@
 This is a simple Pong clone developed using **SDL3** and **C++**. It replicates the classic Pong gameplay, where two paddles hit a ball back and forth, aiming to score against the opponent.
 
 ## Features
-- **Single-player & Two-player mode**
+- **Single-player**
 - **Smooth paddle movement** using keyboard controls
 - **Basic AI opponent** in single-player mode
-- **Score tracking** and game over detection
-- **Simple sound effects** (if enabled)
-- **Customizable game settings** (ball speed, paddle speed, etc.)
+- **Customizable game settings** (ball speed, paddle speed, etc.) via code
 
 ## Requirements
 To run this game, you need:
