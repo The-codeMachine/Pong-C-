@@ -59,9 +59,6 @@ To run this game, you need:
 
 ## Controls
 - **Player 1 (Left Paddle)**: `W` (Up), `S` (Down)
-- **Player 2 (Right Paddle)**: `Up Arrow` (Up), `Down Arrow` (Down)
-- **Pause/Resume**: `Space`
-- **Quit**: `Esc`
 
 ## Game Rules
 - Players control paddles to prevent the ball from passing them.
@@ -86,7 +83,7 @@ This project is licensed under the **MIT License**.
 Feel free to contribute by submitting pull requests or reporting issues!
 
 ## Contact
-For any inquiries, reach out at **your-email@example.com** or open an issue on GitHub.
+For any inquiries, reach out at **reyslimmon@gmail.com** or open an issue on GitHub.
 
 ---
 Enjoy playing Pong! 🎮
